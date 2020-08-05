@@ -8,4 +8,4 @@ Madman10K - Co-founder of the avanta
 
 Xearty - Co-founder of the avanta
 
-![alt text][avanta.png]
+![alt text][avanta]
