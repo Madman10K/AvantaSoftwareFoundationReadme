@@ -3,4 +3,6 @@ Avanta Software Foundation is a software company based in Gabrovo, Bulgaria. We 
 
 ## Members 
 invakid404 - the avanta ambassador
-Madman10K - 
+Madman10K - Co-founder of the avanta
+Xearty - Co-founder of the avanta
+
